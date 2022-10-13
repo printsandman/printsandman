@@ -7,7 +7,7 @@
 </div>
 
 
-[![ Gráfico de atividade do github printsandman ](https://activity-graph.herokuapp.com/graph?username=printsandman&bg_color=0d1117&color=FFFFFF&line=6441a5&point=ffa500&area=true&hide_border=true)]
+![ Gráfico de atividade do github printsandman ](https://activity-graph.herokuapp.com/graph?username=printsandman&bg_color=0d1117&color=FFFFFF&line=6441a5&point=ffa500&area=true&hide_border=true)
 
 
 <p align="center">
