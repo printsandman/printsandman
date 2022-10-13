@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6441a5&height=120§ion=header"/>
 
-[![ Digitando SVG ](https://readme-typing-svg.herokuapp.com/?color=6441a5&size=35¢er=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Fernanda+Arruda;Eu+sou+do+Brasil;Estou+Cursando+segurança+da+imformação;Seja+Bem-vindos(as)!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=30&pause=999&color=AD1FF7&width=560&height=120&lines=Ol%C3%A1%2C+Sejam+Bem-vindos(as)!;Meu+nome+%C3%A9+Fernanda+ARRUDA;GRADUANDA+EM...;SEGURAN%C3%87A+DA+INFORMA%C3%87%C3%83O;E+SOU+DO+BRASIL!)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/printsandman">
